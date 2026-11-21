@@ -1,31 +1,77 @@
-# Akanksha Singh
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-8250df?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-8250df?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8250df?style=flat-square&logo=php&logoColor=white)
+![Akanksha Singh](https://capsule-render.vercel.app/api?type=waving&color=8250df&height=220&section=header&text=Akanksha%20Singh&fontColor=ffffff&fontSize=46&fontAlignY=40&animation=twinkling)
 
-I’m a Computer Science and Engineering graduate. I build database-backed web tools with PHP and MySQL and use Python and SQL to explore data and build machine learning projects.
+**Computer Science & Engineering Graduate**
 
-## Featured project
+![Python and SQL analytics, PHP and MySQL development, CareLoop No-Show Guard](https://readme-typing-svg.demolab.com?font=Fira%20Code&size=19&center=true&vCenter=true&width=540&repeat=true&color=8250df&lines=Python%20%26%20SQL%20for%20Data%20Analytics%3BPHP%20%26%20MySQL%20Development%3BCareLoop%20Clinics%20%7C%20No-Show%20Guard)
 
-### [CareLoop Clinics · No-Show Guard](https://github.com/AKANKSHAS-03/CareLoop-NoShow-Guard)
+![Profile views](https://komarev.com/ghpvc/?username=AKANKSHAS-03&color=8250df&style=flat-square&label=Profile%20views) [![GitHub followers](https://img.shields.io/github/followers/AKANKSHAS-03?label=Followers&color=8250df&style=flat-square)](https://github.com/AKANKSHAS-03?tab=followers)
 
-An end-to-end project using **1,020 appointment bookings across 8 clinics** to understand and predict missed outpatient appointments.
+</div>
 
-- Used MySQL to examine patterns by clinic, booking lead time, and month.
-- Compared Logistic Regression, Decision Tree, and Random Forest models. The best model achieved approximately **0.79 ROC-AUC**.
-- Used Gemini and Pydantic to extract structured reasons from patient follow-up notes.
+## Who I Am
 
-## Technical skills
+```typescript
+const akanksha = {
+  title: "Computer Science & Engineering Graduate",
+  stack: {
+    languages: ["Python", "PHP", "SQL", "JavaScript"],
+    frontend: ["HTML", "CSS", "Bootstrap"],
+    dataAndAI: ["MySQL", "Pandas", "NumPy", "scikit-learn", "Gemini API", "Pydantic"],
+    tools: ["Git", "GitHub", "Excel", "Power BI"],
+  },
+  launchedProjects: ["CareLoop Clinics – No-Show Guard"],
+};
+```
 
-| Area | Tools |
+## Featured Projects
+
+### CareLoop Clinics – No-Show Guard
+
+Uses Python and SQL to analyze outpatient appointment data, predicts no-show risk with machine learning, and uses Gemini to extract reasons from patient follow-up notes.
+
+[![CareLoop No-Show Guard repository card](https://github-readme-stats.vercel.app/api/pin/?username=AKANKSHAS-03&repo=CareLoop-NoShow-Guard&theme=dark&border_color=8250df&title_color=d2a8ff&text_color=d8dee9&icon_color=d2a8ff)](https://github.com/AKANKSHAS-03/CareLoop-NoShow-Guard)
+
+| Layer | Technology |
 | --- | --- |
-| Web development | PHP, HTML, CSS, JavaScript, Bootstrap |
-| Data analysis and reporting | Python, SQL, MySQL, Pandas, NumPy, Excel, Power BI |
-| Machine learning and AI | scikit-learn, Gemini API, Pydantic |
-| Version control | Git, GitHub |
+| Data preparation | Python, Pandas, NumPy, Open-Meteo API |
+| Data analysis | SQL, MySQL |
+| Machine learning | scikit-learn |
+| Generative AI and validation | Gemini API, Pydantic |
+
+[Code](https://github.com/AKANKSHAS-03/CareLoop-NoShow-Guard)
+
+## Tech Stack
+
+| Category | Technologies |
+| --- | --- |
+| Languages | ![Python, PHP, JavaScript](https://skillicons.dev/icons?i=py%2Cphp%2Cjs&theme=dark) **SQL** |
+| Frontend | ![HTML, CSS, Bootstrap](https://skillicons.dev/icons?i=html%2Ccss%2Cbootstrap&theme=dark) |
+| Data and AI | ![MySQL, scikit-learn](https://skillicons.dev/icons?i=mysql%2Csklearn&theme=dark) **Pandas · NumPy · Gemini API · Pydantic** |
+| Tools | ![Git, GitHub](https://skillicons.dev/icons?i=git%2Cgithub&theme=dark) **Excel · Power BI** |
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AKANKSHAS-03&show_icons=true&theme=dark&border_color=8250df&title_color=d2a8ff&text_color=d8dee9&icon_color=d2a8ff)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKANKSHAS-03&layout=compact&theme=dark&border_color=8250df&title_color=d2a8ff&text_color=d8dee9&icon_color=d2a8ff)
+
+![GitHub contribution streak](https://streak-stats.demolab.com/?user=AKANKSHAS-03&theme=dark&border=8250df&ring=8250df&fire=8250df&currStreakLabel=d2a8ff)
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=AKANKSHAS-03&theme=dark&no-frame=true&no-bg=true&column=6)
+
+![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=AKANKSHAS-03&bg_color=161b22&color=d2a8ff&line=a371f7&point=d8dee9&area=true&area_color=8250df&hide_border=true)
+
+</div>
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8250df?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-singh-7b69a5249)
-[![Email](https://img.shields.io/badge/Email-8250df?style=flat-square&logo=gmail&logoColor=white)](mailto:akankshacse2021@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8250df?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/akanksha-singh-7b69a5249) [![Email](https://img.shields.io/badge/Email-8250df?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:akankshacse2021@gmail.com)
+
+<div align="center">
+
+![Purple wave](https://capsule-render.vercel.app/api?type=waving&color=8250df&height=105&section=footer)
+
+</div>
